@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
         staticLoadingAnimation1.setDuration(1400);
         staticLoadingAnimation2.setDuration(1200);
         staticLoadingAnimation3.setDuration(1200);
+
         staticLoadingAnimation4.setDuration(800);
         staticLoadingAnimation5.setDuration(1400);
 
